@@ -1,3 +1,3 @@
 #Publishing on Github
 
-1. npm i gh-pages --save -dev
+1. npm i gh-pages --save-dev
